@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of our projects are available at [GitHub](https://github.com/AnthroSoft?tab=repositories)
 
-- 📝 Follow us on twitter [twitter](https://twitter.com/Anthro_Soft)
+- 📝 Follow us on [Twitter](https://twitter.com/Anthro_Soft)
 
 - 💬 Ask us about **Python, C, C++, Rust, Lua, Rust**
 
