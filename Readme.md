@@ -9,7 +9,7 @@
 
 - 📝 Follow us on twitter [twitter](https://twitter.com/Anthro_Soft)
 
-- 💬 Ask us about *Python, C, C++, Rust, Lua, Rust*
+- 💬 Ask us about **Python, C, C++, Rust, Lua, Rust**
 
 - 📫 How to reach us *anthrosoft.info@gmail.com*
 
