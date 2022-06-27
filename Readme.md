@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/Anthro_Soft" target="blank"><img src="https://img.shields.io/twitter/follow/Anthro_Soft?logo=twitter&style=for-the-badge" alt="AnthroSoft" /></a> </p>
 
-- 👨‍💻 All of our projects are available at [GitHub](https://github.com/AnthroSoft)
+- 👨‍💻 All of our projects are available at [GitHub](https://github.com/AnthroSoft?tab=repositories)
 
-- 📝 Follow us on twitter [witter](https://twitter.com/Anthro_Soft)
+- 📝 Follow us on twitter [twitter](https://twitter.com/Anthro_Soft)
 
 - 💬 Ask us about *Python, C, C++, Rust, Lua, Rust*
 
